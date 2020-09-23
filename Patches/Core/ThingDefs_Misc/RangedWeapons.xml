@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- ========== Westerado ========== -->
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_Cattleman_Westerado"]/label</xpath>
+        <value>
+          <label>Colt M1873</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_NavyRevolver_Westerado"]/label</xpath>
+        <value>
+          <label>Griswold &amp; Gunnison Pattern 1851</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_DoubleActionRevolver_Westerado"]/label</xpath>
+        <value>
+          <label>Gasser M1870</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_BroomhandlePistol_Westerado"]/label</xpath>
+        <value>
+          <label>Mauser C96</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_BoltActionPistol_Westerado"]/label</xpath>
+        <value>
+          <label>Mosin-Nagant Obrez</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_HarlowRevolver_Westerado"]/label</xpath>
+        <value>
+          <label>Colt Army Model 1860</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_CoachGun_Westerado"]/label</xpath>
+        <value>
+          <label>Charles Parker 1878</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_CoachGunSawed_Westerado"]/label</xpath>
+        <value>
+          <label>Sawed-off Charles Parker 1878</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_TrenchPumpShotgun_Westerado"]/label</xpath>
+        <value>
+          <label>Winchester Model 1897</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_LeverActionShotgun_Westerado"]/label</xpath>
+        <value>
+          <label>Winchester Model 1887</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_LeverActionShotgunSawed_Westerado"]/label</xpath>
+        <value>
+          <label>Sawed-off Winchester Model 1887</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_MaresLegShotgun_Westerado"]/label</xpath>
+        <value>
+          <label>Mare's Leg</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_PercussionRifle_Westerado"]/label</xpath>
+        <value>
+          <label>Enfield Pattern 1853</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_BreechblockRifle_Westerado"]/label</xpath>
+        <value>
+          <label>Martini–Henry</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_RepeatingRifle_Westerado"]/label</xpath>
+        <value>
+          <label>Henry Repeating Rifle</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_RepeatingRifleDecorated_Westerado"]/label</xpath>
+        <value>
+          <label>Decorated Henry Repeating Rifle</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_BoltActionSniperRifle_Westerado"]/label</xpath>
+        <value>
+          <label>Scoped Lee–Enfield Mk I</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_MusketRifle_Westerado"]/label</xpath>
+        <value>
+          <label>Springfield Model 1812</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_MusketRifleBayonet_Westerado"]/label</xpath>
+        <value>
+          <label>Springfield Model 1812 Bayonet</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_MusketRifleDecorated_Westerado"]/label</xpath>
+        <value>
+          <label>Decorated Springfield Model 1861</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_PercussionPistol_Westerado"]/label</xpath>
+        <value>
+          <label>Henry Aston Model 1842</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_FlintlockPistol_Westerado"]/label</xpath>
+        <value>
+          <label>Staton Flintlock Pistol</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_BreechblockSniperRifle_Westerado"]/label</xpath>
+        <value>
+          <label>Sharps 1874 Long Range Rifle</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_BreakActionShotgun_Westerado"]/label</xpath>
+        <value>
+          <label>Holland &amp; Holland Paradox</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_BreakActionRevolver_Westerado"]/label</xpath>
+        <value>
+          <label>Smith &amp; Wesson Schofield</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_LeverActionPistol_Westerado"]/label</xpath>
+        <value>
+          <label>Volcanic Repeater</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_PercussionRevolver_Westerado"]/label</xpath>
+        <value>
+          <label>Colt 1851 Navy</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Turret_Cannon_Westerado"]/label</xpath>
+        <value>
+          <label>Canon obusier de 12 1853</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Artillery_Cannon_Westerado"]/label</xpath>
+        <value>
+          <label>Canon obusier de 12 1853</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Turret_PuntGun_Westerado"]/label</xpath>
+        <value>
+          <label>Holland &amp; Holland Punt Gun</label>
+        </value>
+      </li>
+      <!--<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName="PuntGun_Westerado"]/label</xpath>
+				<value>
+					<label>Holland &amp; Holland Punt Gun</label>
+				</value>
+			</li>-->
+    </operations>
+  </Operation>
+  <!-- ========== Vanilla ========== -->
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_Revolver"]/label</xpath>
+        <value>
+          <label>Ruger Redhawk</label>
+          <!-- Webley Mk VI Revolver -->
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_Autopistol"]/label</xpath>
+        <value>
+          <label>Colt M1911</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_MachinePistol"]/label</xpath>
+        <value>
+          <label>Intratec TEC-9</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_BoltActionRifle"]/label</xpath>
+        <value>
+          <label>Lee–Enfield Mk I</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_ChainShotgun"]/label</xpath>
+        <value>
+          <label>Saiga-12K</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_PumpShotgun"]/label</xpath>
+        <value>
+          <label>Mossberg 500</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_HeavySMG"]/label</xpath>
+        <value>
+          <label>HK UMP</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_LMG"]/label</xpath>
+        <value>
+          <label>Lewis gun</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_AssaultRifle"]/label</xpath>
+        <value>
+          <label>M16A2</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_SniperRifle"]/label</xpath>
+        <value>
+          <label>M24 (SWS)</label>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Gun_Minigun"]/label</xpath>
+        <value>
+          <label>M134 Minigun</label>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>

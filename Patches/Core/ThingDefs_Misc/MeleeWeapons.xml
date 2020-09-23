@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- ========== Westerado ========== -->
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="MeleeWeapon_CavalrySaber_Westerado"]/label</xpath>
+        <value>
+          <label>Model 1860 Light Cavalry Saber</label>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
