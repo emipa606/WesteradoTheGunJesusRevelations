@@ -1,4 +1,4 @@
-# WesteradoTheGunJesusRevelations
+# [Westerado The Gun Jesus Revelations (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2236991059)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,14 +6,12 @@ Update of Soyuz, DanRathermans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1617051027
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
-
 ![Image](https://i.imgur.com/FDJGOjT.png)
 
-**THIS MOD REQUIRES https://steamcommunity.com/sharedfiles/filedetails/?id=1613533435]WESTERADO TO WORK!**
+**THIS MOD REQUIRES [WESTERADO](https://steamcommunity.com/sharedfiles/filedetails/?id=1613533435) TO WORK!**
 Westerado The Gun Jesus Revelations is a community-requested addon for Westerado that changes Vanilla and Westerado gun names to their 'proper' label.
 
 # Features
@@ -70,26 +68,26 @@ If you have any suggestions for what guns should be renamed – and to what – 
 
 ![Image](https://i.imgur.com/1pcYJRI.png)
 
-Got any questions? Ask them in the comments *or* the https://steamcommunity.com/workshop/filedetails/discussion/1613533435/1744482417434703082/]aptly named Suggestions Thread, and we'll answer them when we can. Got any suggestions? Feel free to post them in the comments, and we'll respond as to the suggestion's feasibility when we can.
+Got any questions? Ask them in the comments *or* the [aptly named Suggestions Thread](https://steamcommunity.com/workshop/filedetails/discussion/1613533435/1744482417434703082/), and we'll answer them when we can. Got any suggestions? Feel free to post them in the comments, and we'll respond as to the suggestion's feasibility when we can.
 
 # Add-ons and Recommended Mods
 
 We suggest using all the add-ons, but **none** of them are *required*.
 
 
-    - Add-on: https://steamcommunity.com/sharedfiles/filedetails/?id=1613534100]Westerado Wilderness, overhauls biomes to have more of a western-feel, including many new plants
-    - Add-on: https://steamcommunity.com/sharedfiles/filedetails/?id=1634367989]Westerado Gunslinger, adds compatibility with https://steamcommunity.com/workshop/filedetails/?id=1631756268]Combat Extended
-    - Add-on: https://steamcommunity.com/sharedfiles/filedetails/?id=1233906319]Horses by SpiderCamp, adds horses!
-    - Recommended: https://steamcommunity.com/sharedfiles/filedetails/?id=1322101066]Snowy Trees by Nandonalt and Tejko, plants get snowy when it snows
+    - Add-on: [Westerado Wilderness](https://steamcommunity.com/sharedfiles/filedetails/?id=1613534100), overhauls biomes to have more of a western-feel, including many new plants
+    - Add-on: [Westerado Gunslinger](https://steamcommunity.com/sharedfiles/filedetails/?id=1634367989), adds compatibility with [Combat Extended](https://steamcommunity.com/workshop/filedetails/?id=1631756268)
+    - Add-on: [Horses by SpiderCamp](https://steamcommunity.com/sharedfiles/filedetails/?id=1233906319), adds horses!
+    - Recommended: [Snowy Trees by Nandonalt and Tejko](https://steamcommunity.com/sharedfiles/filedetails/?id=1322101066), plants get snowy when it snows
 
 
 
 # Mod loading order
 
-Westerado The Gun Jesus Revelations should be loaded after Westerado (Core), if you're using https://steamcommunity.com/sharedfiles/filedetails/?id=1322101066]Snowy Trees by Nandonalt and Tejko put that before Westerado (Core) and Westerado WIlderness. Something like:
+Westerado The Gun Jesus Revelations should be loaded after Westerado (Core), if you're using [Snowy Trees by Nandonalt and Tejko](https://steamcommunity.com/sharedfiles/filedetails/?id=1322101066) put that before Westerado (Core) and Westerado WIlderness. Something like:
 
 
-    - https://steamcommunity.com/sharedfiles/filedetails/?id=1322101066]Snowy Trees by Nandonalt and Tejko
+    - [Snowy Trees by Nandonalt and Tejko](https://steamcommunity.com/sharedfiles/filedetails/?id=1322101066)
     - Westerado
     - Westerado Wilderness
     - Westerado Gunslinger
@@ -115,7 +113,7 @@ DanRatherman - Help  [credit, not a request]
 
 # Licensing
 
-All original content (e.g. text, imagery, sounds) in this mod is licensed under the http://creativecommons.org/licenses/by-sa/4.0/]CC-BY-SA 4.0 license.
+All original content (e.g. text, imagery, sounds) in this mod is licensed under the [CC-BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -123,13 +121,12 @@ All original content (e.g. text, imagery, sounds) in this mod is licensed under 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2236991059]![Image](https://img.shields.io/github/v/release/emipa606/WesteradoTheGunJesusRevelations?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/WesteradoTheGunJesusRevelations?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2236991059) | tags:  gun names
